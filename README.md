@@ -1,7 +1,7 @@
 # Programming II Portfolio
 Selected projects of Howard Ying from the Programming II Course, 2018.
 
-Contact: 
+Drop a line: 
 [hyhowardying@gmail.com](mailto:hyhowardying@gmail.com)
 
 ---
