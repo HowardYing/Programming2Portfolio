@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Programming II Portfolio
+Selected projects of Howard Ying from the Programming II Course, 2018.
 
-You can use the [editor on GitHub](https://github.com/HowardYing/Programming2Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Contact: 
+[hyhowardying@gmail.com](mailto:hyhowardying@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+## Age Calculator
+[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/ageCalc.png "Age Calculator")](https://howardying.github.io/Programming1Portfolio/ageCalculator)
 
-### Markdown
+---
+## Calculator
+[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/calculator.png "Calculator")](https://howardying.github.io/Programming1Portfolio/calculator)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
+## Distance Converter
+[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/distConvert.png "Distance Converter")](https://howardying.github.io/Programming1Portfolio/distanceConverter)
 
-```markdown
-Syntax highlighted code block
+---
+## Screen Saver
+[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/screenSaver.png "Screen Saver")](https://howardying.github.io/Programming1Portfolio/screenSaver)
 
-# Header 1
-## Header 2
-### Header 3
+---
+## Space Game
+[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/spaceGame.png "Space Game")](https://howardying.github.io/Programming1Portfolio/spaceGame)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HowardYing/Programming2Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+## Group Project: Calorie Counter
+[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/calorieCounter.png "Calorie Counter")](https://howardying.github.io/Programming1Portfolio/calorieCounter)
