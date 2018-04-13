@@ -5,8 +5,8 @@ Drop a line:
 [hyhowardying@gmail.com](mailto:hyhowardying@gmail.com)
 
 ---
-## Age Calculator
-[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/ageCalc.png "Age Calculator")](https://howardying.github.io/Programming1Portfolio/ageCalculator)
+## FitTracker
+[![Alt text](https://howardying.github.io/Programming2Portfolio/img/FitTracker.png "Fitness Tracker")](https://howardying.github.io/Programming1Portfolio/fitTracker)
 
 ---
 ## Calculator
