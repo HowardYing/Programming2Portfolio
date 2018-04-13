@@ -6,7 +6,7 @@ Drop a line:
 
 ---
 ## FitTracker
-[![Alt text](https://howardying.github.io/Programming2Portfolio/img/fitTracker.png "Fitness Tracker")](https://howardying.github.io/Programming1Portfolio/fitTracker)
+[![Alt text](https://howardying.github.io/Programming2Portfolio/img/fitTracker.png "Fitness Tracker")](https://howardying.github.io/Programming2Portfolio/fitTracker)
 
 ---
 ## Calculator
