@@ -13,8 +13,8 @@ Drop a line:
 [![Alt text](https://howardying.github.io/Programming2Portfolio/img/ticTac.png "Tic-Tac-Toe")](https://howardying.github.io/Programming2Portfolio/ticTacToe)
 
 ---
-## Distance Converter
-[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/distConvert.png "Distance Converter")](https://howardying.github.io/Programming1Portfolio/distanceConverter)
+## Transaction Simulator
+[![Alt text](https://howardying.github.io/Programming2Portfolio/img/transactionSim.png "Transaction Simulator")](https://howardying.github.io/Programming2Portfolio/transactionSim)
 
 ---
 ## Screen Saver
