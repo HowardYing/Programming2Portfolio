@@ -10,7 +10,7 @@ Drop a line:
 
 ---
 ## Calculator
-[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/calculator.png "Calculator")](https://howardying.github.io/Programming1Portfolio/calculator)
+[![Alt text](https://howardying.github.io/Programming2Portfolio/img/ticTac.png "Tic-Tac-Toe")](https://howardying.github.io/Programming2Portfolio/ticTacToe)
 
 ---
 ## Distance Converter
