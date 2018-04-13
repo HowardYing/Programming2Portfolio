@@ -9,7 +9,7 @@ Drop a line:
 [![Alt text](https://howardying.github.io/Programming2Portfolio/img/fitTracker.png "Fitness Tracker")](https://howardying.github.io/Programming2Portfolio/fitTracker)
 
 ---
-## Calculator
+## Tic-Tac-Toe
 [![Alt text](https://howardying.github.io/Programming2Portfolio/img/ticTac.png "Tic-Tac-Toe")](https://howardying.github.io/Programming2Portfolio/ticTacToe)
 
 ---
