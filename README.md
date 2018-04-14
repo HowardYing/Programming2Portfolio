@@ -21,9 +21,5 @@ Drop a line:
 [![Alt text](https://howardying.github.io/Programming2Portfolio/img/tankerCalc.png "Tanker Calc 2")](https://howardying.github.io/Programming2Portfolio/tankerCalc)
 
 ---
-## Space Game
-[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/spaceGame.png "Space Game")](https://howardying.github.io/Programming1Portfolio/spaceGame)
-
----
-## Group Project: Calorie Counter
-[![Alt text](https://howardying.github.io/Programming1Portfolio/Images/calorieCounter.png "Calorie Counter")](https://howardying.github.io/Programming1Portfolio/calorieCounter)
+## Web Reader
+[![Alt text](https://howardying.github.io/Programming2Portfolio/img/webReaderAlt.png "Web Reader")](https://howardying.github.io/Programming2Portfolio/webReader)
