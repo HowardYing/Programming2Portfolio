@@ -6,7 +6,7 @@ This is a joke calculator application that uses the current date and an inputted
 ![alt text](https://howardying.github.io/Programming2Portfolio/img/tankerCalcCode.png)
 
 This calculator application was made using Java. The application calculates the age by comparing the user-inputted birthdate with the current date of the system.d to the same format. Simple division is used to calculate the the amount of tankers from the expected lifespan. 
-[You can view the source code on Github here.](https://github.com/HowardYing/tankerCalc)
+[You can view the source code on Github here.](https://github.com/HowardYing/TankerCalc2.0)
 
 [BACK](https://howardying.github.io/Programming2Portfolio/ "Back to Home")
 
