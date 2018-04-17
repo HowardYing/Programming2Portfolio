@@ -1,7 +1,7 @@
 # Website Reader
 ![alt text](https://howardying.github.io/Programming2Portfolio/img/webReaderAlt.png)
 
-This is a basic webpage data extraction application, which points to a particular website, and copys the html code into an external output file. The goal was to become more familiarized with Input/Output formats available in Java, as well as using URL data. The entire program is executed in the command line; there is no GUI.
+This is a basic webpage data extraction application, which points to a particular website, and copies the html code into an external output file. The goal was to become more familiarized with Input/Output formats available in Java, as well as using URL data. The entire program is executed in the command line; there is no GUI.
 
 # Code
 ![alt text](https://howardying.github.io/Programming2Portfolio/img/webReaderCode.png)
