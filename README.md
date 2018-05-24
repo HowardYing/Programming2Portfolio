@@ -6,7 +6,7 @@ Drop a line:
 
 ---
 ## Earth Defenders II
-[![Alt text](https://howardying.github.io/Programming2Portfolio/img/earthDefendersII.png "Earth Defenders II")](https://howardying.github.io/Programming2Portfolio/earthDefendersII)
+[![Alt text](https://howardying.github.io/Programming2Portfolio/img/earthDefendersII.png "Earth Defenders II")](https://howardying.github.io/Programming2Portfolio/EarthDefendersII)
 
 ---
 ## FitTracker
