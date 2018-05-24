@@ -5,6 +5,10 @@ Drop a line:
 [hyhowardying@gmail.com](mailto:hyhowardying@gmail.com)
 
 ---
+## Earth Defenders II
+[![Alt text](https://howardying.github.io/Programming2Portfolio/img/earthDefendersII.png "Earth Defenders II")](https://howardying.github.io/Programming2Portfolio/earthDefendersII)
+
+---
 ## FitTracker
 [![Alt text](https://howardying.github.io/Programming2Portfolio/img/fitTracker.png "Fitness Tracker")](https://howardying.github.io/Programming2Portfolio/fitTracker)
 
